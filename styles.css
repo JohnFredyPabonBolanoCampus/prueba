@@ -51,10 +51,11 @@ header article article  {
 
 .home {
     height: 250px;
-    width: 500px;
+    width: 430px;
     background: none;
     position: relative;
-    left: 340px;
+    left: 1040px;
+    bottom: 220px;
 }
 
 .hola2 {
@@ -67,3 +68,21 @@ header article article  {
     top:30px ;
     background: none;
 }
+
+.holus {
+    color:white;
+    font-size: 39px;
+    position: relative;
+    left: 1180px;
+    width:420px;
+    bottom: 20px;
+}
+
+.holos {
+    position: relative;
+    top: 200px;
+    left: -200px;
+    width: 300px;
+}
+header article article:hover{
+ color:#ff702a}
